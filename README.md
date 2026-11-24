@@ -15,4 +15,4 @@ cat /output/entry.txt
 
 ## Entry
 
-> GPT family: the stars promise a week of 'continue', 'continue', 'continue'. Your lucky number is 429; your unlucky one is the token count of the PDF arriving Friday.
+> GPT family: the stars promise a week of users typing 'continue'. Your lucky number is 429. Your unlucky one: the page count of the PDF arriving Friday, right after you swore you remembered it all.
